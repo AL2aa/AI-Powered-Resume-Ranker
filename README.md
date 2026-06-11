@@ -27,4 +27,4 @@ Make sure you have **Python** installed on your computer. You can download it fr
 **1. Download the Project**
 Open your Command Prompt (`cmd`) and clone this repository:
 ```bash
-git clone https://github.com/AL2aa/CV_Powred-Resume-Ranker.git
+git clone [https://github.com/AL2aa/CV_Powred-Resume-Ranker.git]
