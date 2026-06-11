@@ -1,6 +1,6 @@
 # 🧠 AI-Powered Resume Ranker
 
-Welcome to our Graduation Project! The AI-Powered Resume Ranker is a multi-agent recruitment pipeline built with Streamlit and powered by Qwen2.5. It automates resume screening, evaluates candidates against specific job descriptions using a tiered rubric, and provides a comprehensive ranking dashboard.
+Welcome to our  Project! The AI-Powered Resume Ranker is a multi-agent recruitment pipeline built with Streamlit and powered by Qwen2.5. It automates resume screening, evaluates candidates against specific job descriptions using a tiered rubric, and provides a comprehensive ranking dashboard.
 
 
 ## 👥 Project Team
