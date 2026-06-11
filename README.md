@@ -11,7 +11,7 @@ Welcome to our Graduation Project! The AI-resume Ranker is a multi-agent recruit
 * Moustafa Ayman
 * Bavly Hany
 
-*Special thanks to our instructors and mentors: Dr. Hanaa Mobarz, Eng. Ali Abdullah
+*Special thanks to our instructor and mentor: Dr. Hanaa Mobarz, Eng. Ali Abdullah
 
 ---
 
@@ -27,4 +27,4 @@ Make sure you have **Python** installed on your computer. You can download it fr
 **1. Download the Project**
 Open your Command Prompt (`cmd`) and clone this repository:
 ```bash
-git clone [https://github.com/AL2aa/AI-Powered-Resume-Ranker.git]
+git clone https://github.com/AL2aa/AI-Powered-Resume-Ranker.git
