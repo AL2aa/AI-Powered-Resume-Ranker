@@ -1,6 +1,6 @@
 # 🧠 AI - powered Resume Ranker
 
-Welcome to our Graduation Project! The Smart ATS AI is a multi-agent recruitment pipeline built with Streamlit and powered by Qwen2.5. It automates resume screening, evaluates candidates against specific job descriptions using a tiered rubric, and provides a comprehensive ranking dashboard.
+Welcome to our Graduation Project! The AI-resume Ranker is a multi-agent recruitment pipeline built with Streamlit and powered by Qwen2.5. It automates resume screening, evaluates candidates against specific job descriptions using a tiered rubric, and provides a comprehensive ranking dashboard.
 
 ## 👥 Project Team
 * Alaa Mamdouh
