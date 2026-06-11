@@ -1,4 +1,4 @@
-# 🧠 Smart ATS AI - CV Ranker
+# 🧠 AI - powered Resume Ranker
 
 Welcome to our Graduation Project! The Smart ATS AI is a multi-agent recruitment pipeline built with Streamlit and powered by Qwen2.5. It automates resume screening, evaluates candidates against specific job descriptions using a tiered rubric, and provides a comprehensive ranking dashboard.
 
@@ -27,4 +27,4 @@ Make sure you have **Python** installed on your computer. You can download it fr
 **1. Download the Project**
 Open your Command Prompt (`cmd`) and clone this repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone https://github.com/AL2aa/CV_Powred-Resume-Ranker
