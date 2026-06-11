@@ -743,7 +743,7 @@ elif st.session_state.current_page == 'results':
     table_html = '<div class="table-card" style="overflow-x: auto;">'
     table_html += '<table class="res-table">'
     table_html += '<thead><tr>'
-    table_html += '<th>Rank</th><th>Candidate</th><th>Score</th><th>Skills match</th><th>Experience</th><th>Status</th>'
+    table_html += '<th>Rank</th><th>Candidate</th><th>Score</th>'
     table_html += '</tr></thead><tbody>'
 
     for idx, row in enumerate(candidates):
@@ -775,9 +775,7 @@ elif st.session_state.current_page == 'results':
         table_html += f"<td><div style='position: relative; width: 30px; height: 30px;'><div class='rank-badge {r_class}' style='position: absolute; top: 0; left: 0; right: auto;'>#{rank}</div></div></td>"
         table_html += f"<td><div class='card-name' style='margin-bottom: 2px;'>{name}</div><div class='card-role' style='margin-bottom: 0;'>{role}</div></td>"
         table_html += f"<td><div class='bar-wrap'><div class='bar-fill' style='width: {score}%; background: #a855f7;'></div></div><span style='font-size: 13px; font-weight: 700; color: #64748b;'>{score}%</span></td>"
-        table_html += f"<td><span style='font-size: 13px; color: #475569; font-weight: 500;'>{n_skills} / 10</span></td>"
-        table_html += f"<td><span style='font-size: 13px; color: #475569; font-weight: 500;'>{exp} yrs</span></td>"
-        table_html += f"<td><span class='badge {status_class}'>{status}</span></td>"
+       
         table_html += "</tr>"
 
     table_html += '</tbody></table></div>'
