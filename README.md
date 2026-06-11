@@ -28,3 +28,20 @@ Make sure you have **Python** installed on your computer. You can download it fr
 Open your Command Prompt (`cmd`) and clone this repository:
 ```bash
 git clone https://github.com/AL2aa/AI-Powered-Resume-Ranker.git
+### 🍎/🐧 How to Run on Mac or Linux
+1. Clone the repository: `git clone https://github.com/AL2aa/AI-Powered-Resume-Ranker.git`
+2. Navigate to the folder: `cd AI-Powered-Resume-Ranker`
+3. Create the virtual environment: `python3 -m venv venv`
+4. Activate it: `source venv/bin/activate`
+5. Install dependencies: `pip install -r requirements.txt`
+6. Run the app: `streamlit run app.py`
+
+###Tech Stack & Architecture
+
+Frontend: Streamlit, Plotly (for the dashboard analytics)
+
+Backend: Python
+
+AI/ML: Qwen2.5-1.5B-Instruct, HuggingFace Transformers, PyTorch
+
+Data Processing: PyPDF, python-docx
